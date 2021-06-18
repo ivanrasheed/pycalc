@@ -10,3 +10,11 @@ git commmit -m "message"
 git status
 git log
 git checkout commit_code
+
+
+
+# git workflows
+
+1. add/edit file
+2. add file to a staging area (git add files)
+3. saving (git commmit -m "message")
